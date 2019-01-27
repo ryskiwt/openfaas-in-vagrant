@@ -1,6 +1,10 @@
-# Usage
+# Open-FaaS in Vagrant
 
-Setup Vagrant
+- Setup Open-FaaS envirionment in Vagrant
+
+## Usage
+
+Vagrant Up
 
 ```sh
 $ cd /path/to/this/repo
@@ -28,9 +32,9 @@ Access Web UI and invoke the function
 - Open-FaaS: http://192.168.33.40:8080
 - Prometheus: http://192.168.33.40:9090
 
-![screenshot.png]
+![](./screenshot.png)
 
-# Advanced Usage
+## Advanced Usage
 
 Write your own template on your repository
 
